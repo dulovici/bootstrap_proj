@@ -1,0 +1,21 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: #293e4f;
+}
+.navbar {
+    display: block;
+}
+nav h2 {
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: 400;
+    
+}
+
+

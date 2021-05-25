@@ -18,4 +18,60 @@ nav h2 {
     
 }
 
+/* section 2 */
+.s1 {
+    background-color:#00bc9c ;
+}
+.s1 img {
+    width: 250px;
+    margin: 50px auto
+}
+.s1 h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+.s1 h2 {
+    color: whitesmoke;
+    text-align: center;
+}
+.s1 h4 {
+    margin-top: 20px;
+    color: whitesmoke;
+    text-align: center;
+}
 
+/* section 3 */
+
+.s2 h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-weight: 700;
+}
+.s2 h2 {
+    text-align: center;
+}
+
+.s2 img {
+    width: 250px;
+    padding: 5px;
+    
+}
+
+.last-row {
+    margin-bottom: 40px;
+}
+
+/* section 3 */
+
+.s3 {
+    background-color:#00bc9c ; 
+}
+.s3 h1 {
+    text-align: center;
+    font-weight: 700;
+}
+.s3 h2 {
+    text-align: center;
+}

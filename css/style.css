@@ -71,7 +71,80 @@ nav h2 {
 .s3 h1 {
     text-align: center;
     font-weight: 700;
+    color: whitesmoke;
 }
 .s3 h2 {
     text-align: center;
+    color: whitesmoke;
+}
+.s3 p {
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.s3 button {
+    width: 200px;
+    margin: auto;
+    margin-bottom: 40px;
+    border: 2px solid whitesmoke;
+    background-color: transparent;
+}
+
+/* section 4 */
+
+.s4 h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-weight: 700;
+}
+.s4 h2 {
+    text-align: center;
+}
+
+.s4 form {
+    margin-bottom: 30px;
+}
+.s4 input, .s4 textarea {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid rgb(245, 245, 245);
+}
+.s4 .subm {
+    width: 60px;
+    background:#00bc9c ;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+/* footer */
+
+footer .container {
+    width: 900px;
+}
+footer {
+    background-color:#293e4f ;
+    color: whitesmoke;
+}
+footer h2 {
+    margin-top: 20px;
+    text-align: center; 
+    font-size: 30px;
+}
+footer p {
+    text-align: center;
+}
+footer .cr {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+footer .cr2 {
+    text-align: center;
+    font-size: 8px;
+    margin-top: 0;
+    color: goldenrod;
+    
 }
